@@ -1,9 +1,9 @@
 # 💫 About Me:
 👋 I'm Sarveswaran MG, a passionate Full-Stack Developer who enjoys turning ideas into scalable and user-focused web applications. I specialize in building modern, high-performance interfaces with React and robust backend systems using Node.js, focusing on clean architecture, performance, and seamless user experiences. I love solving real-world problems through code, continuously learning new technologies, and crafting products that are both functional and visually engaging. 🚀
-
+## Portfolio:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://www.sarves.dev)
 
 ## 🌐 Socials:
-[](https://www.sarves.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarveswaran-mg-b9699521b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mfgsarvesh15@gmail.com) 
 
 # 💻 Tech Stack:
